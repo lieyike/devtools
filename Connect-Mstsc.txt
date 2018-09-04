@@ -1,6 +1,7 @@
 Connect-Mstsc - Open RDP Session with credentials
 Download from https://gallery.technet.microsoft.com/scriptcenter/Connect-Mstsc-Open-RDP-2064b10b#content
 wiki: https://ss64.com/nt/mstsc.html
+wiki: https://technet.microsoft.com/zh-cn/library/gg981683.aspx
 
 ﻿Function Connect-Mstsc {
 <#   
